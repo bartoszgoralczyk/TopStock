@@ -1,0 +1,292 @@
+[
+  {
+    "yahoo": "WIG20.WA",
+    "price": 4216.92,
+    "previousClose": 4155.28,
+    "dayHigh": 4217.7,
+    "dayLow": 4150.54,
+    "volume": null,
+    "time": 1791285285,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "WIG.WA",
+    "price": 158785.75,
+    "previousClose": 156543.52,
+    "dayHigh": 158788.64,
+    "dayLow": 156568.94,
+    "volume": null,
+    "time": 1791285240,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "MWIG40.WA",
+    "price": 10687.9,
+    "previousClose": 10521.69,
+    "dayHigh": 10688.63,
+    "dayLow": 10530.72,
+    "volume": null,
+    "time": 1791285285,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "SWIG80.WA",
+    "price": 30912.72,
+    "previousClose": 30822.67,
+    "dayHigh": 30933.1,
+    "dayLow": 30817.48,
+    "volume": null,
+    "time": 1791285240,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "PKO.WA",
+    "price": 122.36,
+    "previousClose": 119.7,
+    "dayHigh": 122.64,
+    "dayLow": 120.26,
+    "volume": 976564,
+    "time": 1791285283,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "PKN.WA",
+    "price": 150.06,
+    "previousClose": 149.58,
+    "dayHigh": 150.84,
+    "dayLow": 147.3,
+    "volume": 563849,
+    "time": 1791285283,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "PEO.WA",
+    "price": 276.8,
+    "previousClose": 270.4,
+    "dayHigh": 276.8,
+    "dayLow": 270.0,
+    "volume": 172271,
+    "time": 1791285274,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "PZU.WA",
+    "price": 71.9,
+    "previousClose": 71.4,
+    "dayHigh": 72.06,
+    "dayLow": 70.8,
+    "volume": 629873,
+    "time": 1791285285,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "KGH.WA",
+    "price": 345.4,
+    "previousClose": 343.75,
+    "dayHigh": 347.45,
+    "dayLow": 339.1,
+    "volume": 227226,
+    "time": 1791285273,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "CDR.WA",
+    "price": 260.9,
+    "previousClose": 255.6,
+    "dayHigh": 262.0,
+    "dayLow": 255.1,
+    "volume": 156429,
+    "time": 1791285270,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "LPP.WA",
+    "price": 25060.0,
+    "previousClose": 24900.0,
+    "dayHigh": 25160.0,
+    "dayLow": 24700.0,
+    "volume": 1205,
+    "time": 1791285144,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "DNP.WA",
+    "price": 33.99,
+    "previousClose": 33.1,
+    "dayHigh": 34.14,
+    "dayLow": 33.15,
+    "volume": 1205986,
+    "time": 1791285282,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "ALE.WA",
+    "price": 51.16,
+    "previousClose": 50.75,
+    "dayHigh": 51.36,
+    "dayLow": 50.63,
+    "volume": 1076374,
+    "time": 1791285277,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "MBK.WA",
+    "price": 1480.5,
+    "previousClose": 1428.5,
+    "dayHigh": 1484.5,
+    "dayLow": 1433.5,
+    "volume": 8885,
+    "time": 1791285134,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "PGE.WA",
+    "price": 15.55,
+    "previousClose": 15.71,
+    "dayHigh": 15.725,
+    "dayLow": 15.225,
+    "volume": 1747871,
+    "time": 1791285262,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "OPL.WA",
+    "price": 15.12,
+    "previousClose": 15.0,
+    "dayHigh": 15.395,
+    "dayLow": 14.855,
+    "volume": 576460,
+    "time": 1791285285,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "JSW.WA",
+    "price": 31.54,
+    "previousClose": 30.94,
+    "dayHigh": 31.59,
+    "dayLow": 30.89,
+    "volume": 138738,
+    "time": 1791285253,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "BDX.WA",
+    "price": 681.4,
+    "previousClose": 670.4,
+    "dayHigh": 687.0,
+    "dayLow": 667.8,
+    "volume": 14217,
+    "time": 1791285269,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "KRU.WA",
+    "price": 379.8,
+    "previousClose": 366.3,
+    "dayHigh": 380.0,
+    "dayLow": 366.0,
+    "volume": 33672,
+    "time": 1791285281,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "ALR.WA",
+    "price": 134.8,
+    "previousClose": 130.6,
+    "dayHigh": 134.9,
+    "dayLow": 131.15,
+    "volume": 111590,
+    "time": 1791285281,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "PCO.WA",
+    "price": 44.34,
+    "previousClose": 43.75,
+    "dayHigh": 44.68,
+    "dayLow": 43.29,
+    "volume": 225150,
+    "time": 1791285262,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "XTB.WA",
+    "price": 139.84,
+    "previousClose": 134.8,
+    "dayHigh": 139.9,
+    "dayLow": 135.0,
+    "volume": 626530,
+    "time": 1791285286,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "ZAB.WA",
+    "price": 31.7,
+    "previousClose": 31.66,
+    "dayHigh": 31.72,
+    "dayLow": 31.61,
+    "volume": 190783,
+    "time": 1791285283,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "ACP.WA",
+    "price": 222.7,
+    "previousClose": 223.3,
+    "dayHigh": 225.0,
+    "dayLow": 221.2,
+    "volume": 41737,
+    "time": 1791285225,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "CPS.WA",
+    "price": 16.98,
+    "previousClose": 16.315,
+    "dayHigh": 16.98,
+    "dayLow": 16.39,
+    "volume": 290966,
+    "time": 1791285287,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "KTY.WA",
+    "price": 1276.0,
+    "previousClose": 1261.0,
+    "dayHigh": 1282.0,
+    "dayLow": 1250.0,
+    "volume": 4761,
+    "time": 1791285236,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "GPW.WA",
+    "price": 99.75,
+    "previousClose": 99.6,
+    "dayHigh": 100.2,
+    "dayLow": 98.8,
+    "volume": 35049,
+    "time": 1791285164,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "ING.WA",
+    "price": 476.6,
+    "previousClose": 466.0,
+    "dayHigh": 476.6,
+    "dayLow": 460.4,
+    "volume": 5368,
+    "time": 1791285245,
+    "currency": "PLN"
+  },
+  {
+    "yahoo": "MIL.WA",
+    "price": 22.83,
+    "previousClose": 22.34,
+    "dayHigh": 22.88,
+    "dayLow": 22.34,
+    "volume": 318126,
+    "time": 1791285276,
+    "currency": "PLN"
+  }
+]
