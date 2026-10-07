@@ -7,6 +7,7 @@ import { SourceBanner } from "@/components/source-banner";
 import { formatDateTime } from "@/lib/format";
 import { getBoard } from "@/lib/market";
 import { listArticles } from "@/lib/news";
+import { loadPapHeadlines } from "@/lib/pap";
 import { sessionPhase } from "@/lib/time";
 import type { Metadata } from "next";
 
@@ -17,8 +18,11 @@ export const metadata: Metadata = {
 };
 
 export default async function HomePage() {
-  const board = await getBoard();
-  const articles = await listArticles();
+  const [board, articles, pap] = await Promise.all([
+    getBoard(),
+    listArticles(),
+    loadPapHeadlines(),
+  ]);
   const phase = sessionPhase();
 
   return (
@@ -48,7 +52,10 @@ export default async function HomePage() {
             Kliknij wiersz, żeby przejść do wykresu. Zmiana liczona jest wobec poprzedniego zamknięcia.
           </p>
         </section>
-        <NewsList articles={articles.slice(0, 5)} />
+        <NewsList
+          articles={articles.slice(0, 4)}
+          pap={{ items: pap.items.slice(0, 5), unavailable: pap.unavailable }}
+        />
       </div>
       <CompanyBrowser />
       <MacroSection />

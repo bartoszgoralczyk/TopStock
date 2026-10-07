@@ -27,7 +27,7 @@ If Yahoo has no quote and the symbol is not in the local snapshot, the row stays
 
 **Macro, from Finwire.** The homepage also shows public series from `https://public-api.finwire.pl` (no key): NBP policy rates, WIBOR, POLSTR, CPI, NBP FX, housing prices, GUS wages, retail bonds, IKE/IKZE limits, finwire barometers, the credit-stress map, and deposit, savings, mortgage, and cash-loan aggregates. Each series is its own card. If one request fails, only that card shows an error. The quotes board does not depend on Finwire. These are not GPW prices, and the site does not republish Finwire articles.
 
-**News** is written for this site. “Przegląd sesji” is calculated from the board you are viewing (live feed or local snapshot). The other articles explain how to read the indices, the table, and the chart. They are not a wire feed.
+**News.** Headlines come from the public PAP Biznes RSS at `https://biznes.pap.pl/rss` (no key). The list shows the headline, the time in Warsaw, and a short “PAP Biznes” source line. Each item links to the original article on biznes.pap.pl. The feed’s description HTML is ignored, and article bodies are not copied onto this site. The server reads that RSS with `curl`, because Node’s own HTTP client is handed an Incapsula interstitial instead of the feed. If the request fails or the channel comes back empty, the page says the PAP feed is down and the local pieces stay: “Przegląd sesji”, calculated from the board you are viewing, and the explainers on how to read the indices, the table, and the chart.
 
 ## Run locally
 
@@ -42,5 +42,5 @@ The dev server listens on [http://127.0.0.1:3847](http://127.0.0.1:3847).
 
 - `/` — WIG20, WIG, mWIG40, sWIG80, a table of large Warsaw stocks, a paged catalog of main-market and NewConnect companies, and the Finwire macro cards
 - `/instrument/PKO` — quote, session stats, and chart (try `WIG20`, `KGH`, `CDR`, `11B`, `7FT`)
-- `/wiadomosci` — headlines
+- `/wiadomosci` — PAP Biznes headlines linking to the original depesze, plus the local explainers
 - `/wiadomosci/przeglad-sesji` — session piece built from the board
