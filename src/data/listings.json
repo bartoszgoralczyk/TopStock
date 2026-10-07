@@ -1,0 +1,4364 @@
+[
+  {
+    "ticker": "06N",
+    "name": "Magna Polonia S.A.",
+    "isin": "PLNFI0600010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "08N",
+    "name": "Octava SA",
+    "isin": "PLNFI0800016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "11B",
+    "name": "11 Bit Studios SA",
+    "isin": "PL11BTS00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "1AT",
+    "name": "ATAL S.A.",
+    "isin": "PLATAL000046",
+    "market": "gpw"
+  },
+  {
+    "ticker": "3RG",
+    "name": "3R Games SA",
+    "isin": "PLGRNKT00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "4MB",
+    "name": "4Mobility S.A.",
+    "isin": "PLESLTN00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "4MS",
+    "name": "4Mass SA",
+    "isin": "PL4MASS00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "7FT",
+    "name": "7FIT Spolka Akcyjna",
+    "isin": "PLTRCPS00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "7LV",
+    "name": "7LEVELS SA",
+    "isin": "PL7LVLS00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "AAT",
+    "name": "Alta SA",
+    "isin": "PLTRNSU00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ABE",
+    "name": "AB S.A.",
+    "isin": "PLAB00000019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ABK",
+    "name": "Abak S.A.",
+    "isin": "PLABAK000013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ABS",
+    "name": "Asseco Business Solutions SA",
+    "isin": "PLABS0000018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ACG",
+    "name": "AC Spolka Akcyjna",
+    "isin": "PLACSA000014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ACP",
+    "name": "Asseco Poland S.A.",
+    "isin": "PLSOFTB00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ACT",
+    "name": "Action S.A.",
+    "isin": "PLACTIN00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ADV",
+    "name": "Adiuvo Investment S.A.",
+    "isin": "PLADVIV00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ADX",
+    "name": "Adatex S.A.",
+    "isin": "PLPIK0000018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "AER",
+    "name": "VENDA SE",
+    "isin": "GB00B42V2T10",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "AFC",
+    "name": "AKCEPT Finance SA",
+    "isin": "PLAKCFN00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "AGL",
+    "name": "Agroliga Group Plc.",
+    "isin": "CY0101452114",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "AGO",
+    "name": "Agora SA",
+    "isin": "PLAGORA00067",
+    "market": "gpw"
+  },
+  {
+    "ticker": "AGP",
+    "name": "AGROMEP Spolka Akcyjna",
+    "isin": "PLAGRMP00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "AGT",
+    "name": "Agroton Public Ltd",
+    "isin": "CY0101062111",
+    "market": "gpw"
+  },
+  {
+    "ticker": "AIN",
+    "name": "ABS Investment Alternatywna Spolka Inwestycyjna Spolka Akcyjna",
+    "isin": "PLABSIN00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "AIT",
+    "name": "Aiton Caldwell SA",
+    "isin": "PLATCDL00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ALE",
+    "name": "Allegro.eu S.A.",
+    "isin": "LU2237380790",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ALG",
+    "name": "All in! Games SA",
+    "isin": "PLSNTFG00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ALI",
+    "name": "Altus SA",
+    "isin": "PLATTFI00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ALL",
+    "name": "Ailleron SA",
+    "isin": "PLWNDMB00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ALR",
+    "name": "Alior Bank SA",
+    "isin": "PLALIOR00045",
+    "market": "gpw"
+  },
+  {
+    "ticker": "AMB",
+    "name": "Ambra S.A.",
+    "isin": "PLAMBRA00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "AMC",
+    "name": "Amica Spolka Akcyjna",
+    "isin": "PLAMICA00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "AME",
+    "name": "ADVANCED MEDICAL EQUIPMENT SPOLKA AKCYJNA",
+    "isin": "PLDNMPT00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ANR",
+    "name": "Answear.com SA",
+    "isin": "PLANSWR00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "AOL",
+    "name": "Analizy Online S.A.",
+    "isin": "PLONLIN00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "APC",
+    "name": "Orbiteo ASI S.A.",
+    "isin": "PLBIOMD00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "APE",
+    "name": "APS Energia SA",
+    "isin": "PLAPSEN00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "APL",
+    "name": "LC Spolka Akcyjna",
+    "isin": "PLAMPLI00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "APN",
+    "name": "Aplisens S.A.",
+    "isin": "PLAPLS000016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "APR",
+    "name": "Auto Partner SA",
+    "isin": "PLATPRT00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "APS",
+    "name": "Automatyka-Pomiary-Sterowanie SA",
+    "isin": "PLPOMST00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "APT",
+    "name": "Apator S.A.",
+    "isin": "PLAPATR00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "AQA",
+    "name": "AQUA Spolka Akcyjna",
+    "isin": "PLAQA0000014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "AQU",
+    "name": "AQUA S.A.",
+    "isin": "PLAQUA000014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ARG",
+    "name": "Art Games Studio SA",
+    "isin": "PLARTGS00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ARH",
+    "name": "Archicom SA",
+    "isin": "PLARHCM00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ARI",
+    "name": "Agencja Rozwoju Innowacji SA",
+    "isin": "PLAGRIN00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ARL",
+    "name": "Arlen SA",
+    "isin": "PLARLEN00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ART",
+    "name": "Artifex Mundi SA",
+    "isin": "PLARTFX00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ASA",
+    "name": "APIS S.A.",
+    "isin": "PLHMSG000019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ASB",
+    "name": "ASBISc Enterprises Plc",
+    "isin": "CY1000031710",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ASE",
+    "name": "Asseco South Eastern Europe S.A.",
+    "isin": "PLASSEE00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ASM",
+    "name": "ASM Group SA",
+    "isin": "PLASMGR00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ASR",
+    "name": "Astro S.A.",
+    "isin": "PLASTRO00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "AST",
+    "name": "ASTARTA HOLDING PLC",
+    "isin": "NL0000686509",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ATA",
+    "name": "ATC Cargo S.A.",
+    "isin": "PLATCRG00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ATC",
+    "name": "Arctic Paper S.A.",
+    "isin": "PLARTPR00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ATD",
+    "name": "Atende SA",
+    "isin": "PLATMSI00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ATG",
+    "name": "ATM Grupa S.A.",
+    "isin": "PLATM0000021",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ATJ",
+    "name": "Atomic Jelly SA Class A",
+    "isin": "PLATMCJ00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ATP",
+    "name": "Atlanta Poland SA",
+    "isin": "PLATLPL00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ATR",
+    "name": "Atrem S.A.",
+    "isin": "PLATREM00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ATS",
+    "name": "ATLANTIS SE",
+    "isin": "EE0000000552",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ATT",
+    "name": "Grupa Azoty Spolka Akcyjna",
+    "isin": "PLZATRM00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "AUX",
+    "name": "AUXILIA SA",
+    "isin": "PLAXILA00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "AVE",
+    "name": "Advertigo SA",
+    "isin": "PLADMSC00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "AWM",
+    "name": "Airway Medix SA",
+    "isin": "PLAIRWY00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "AXN",
+    "name": "AXIA SA",
+    "isin": "PLCSYSA00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "AZC",
+    "name": "Aztec International S.A.",
+    "isin": "PLAZTEC00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BAC",
+    "name": "B-ACT SA",
+    "isin": "PLBCT0000020",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BBD",
+    "name": "BBI Development SA",
+    "isin": "PLNFI1200018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BBT",
+    "name": "BoomBit SA Class B",
+    "isin": "PLBMBIT00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BCM",
+    "name": "Betacom S.A.",
+    "isin": "PLBTCOM00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BCS",
+    "name": "Big Cheese Studio S.A",
+    "isin": "PLA340200015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BCX",
+    "name": "Bioceltix SA",
+    "isin": "PLBCLTX00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BDF",
+    "name": "Bumech Defense Partners Spolka Akcyjna",
+    "isin": "PLCPTLP00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BDX",
+    "name": "Budimex SA",
+    "isin": "PLBUDMX00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BEE",
+    "name": "BeeIN SA",
+    "isin": "PLA346500012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BEP",
+    "name": "Biomass Energy Project SA",
+    "isin": "PLBMSEP00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BFT",
+    "name": "Benefit Systems S.A.",
+    "isin": "PLBNFTS00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BGD",
+    "name": "Biogened SA",
+    "isin": "PLBIOGN00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BHW",
+    "name": "Bank Handlowy w Warszawie S.A.",
+    "isin": "PLBH00000012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BHX",
+    "name": "Binary Helix SA",
+    "isin": "PLBNRHL00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BIG",
+    "name": "Baseig Spolka Akcyjna",
+    "isin": "PLBSG0000023",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BIO",
+    "name": "BIOTON S.A.",
+    "isin": "PLBIOTN00029",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BIP",
+    "name": "Bio Planet S.A.",
+    "isin": "PLBIOPL00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BKD",
+    "name": "Baked Games SA",
+    "isin": "PLBKDGM00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BLF",
+    "name": "BeLeaf Spolka Akcyjna",
+    "isin": "PLBLTXG00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BLO",
+    "name": "Bloober Team spolka akcyjna",
+    "isin": "PLBLOBR00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BLT",
+    "name": "Balticon SA",
+    "isin": "PLBLT0000013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BMC",
+    "name": "Bumech S.A.",
+    "isin": "PLBMECH00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BMX",
+    "name": "Biomaxima SA",
+    "isin": "PLBIOMX00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BNP",
+    "name": "BNP Paribas Bank Polska Spolka Akcyjna",
+    "isin": "PLBGZ0000010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BOS",
+    "name": "Bank Ochrony Srodowiska S.A.",
+    "isin": "PLBOS0000019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BOW",
+    "name": "Bowim S.A.",
+    "isin": "PLBOWM000019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BPC",
+    "name": "Black Pearl SA",
+    "isin": "PLBLKPC00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BPN",
+    "name": "Black Point SA",
+    "isin": "PLBLKPT00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BRO",
+    "name": "Browar Czarnkow SA",
+    "isin": "PLBRWRG00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BRP",
+    "name": "Black Rose Projects SA",
+    "isin": "PLBLRSP00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BRS",
+    "name": "Boryszew S.A.",
+    "isin": "PLBRSZW00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BSA",
+    "name": "BRAS S.A.",
+    "isin": "PLINVNT00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BSH",
+    "name": "Bridge Solutions Hub S.A.",
+    "isin": "PLBRSLH00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BSN",
+    "name": "Brainscan SA",
+    "isin": "PLBRNSN00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BST",
+    "name": "BEST S.A.",
+    "isin": "PLBEST000010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "BTC",
+    "name": "BTC Studios SA",
+    "isin": "PLDMNMN00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BTF",
+    "name": "BTCS S.A.",
+    "isin": "PLVKMTK00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "BTK",
+    "name": "BizTech Konsulting SA",
+    "isin": "PLBZTKN00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CAI",
+    "name": "CARLSON INVESTMENTS SE",
+    "isin": "PLHOTB000011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CAP",
+    "name": "Capitea Spolka Akcyjna",
+    "isin": "PLGTBCK00297",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CAR",
+    "name": "Inter Cars S.A.",
+    "isin": "PLINTCS00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CAV",
+    "name": "Cavatina Holding SA",
+    "isin": "PLCVTNH00040",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CBD",
+    "name": "Cannabis Poland SA",
+    "isin": "PLBLOCM00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CBF",
+    "name": "cyber_Folks SA",
+    "isin": "PLR220000018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CCE",
+    "name": "Clean & Carbon Energy SA",
+    "isin": "PLKAREN00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CCR",
+    "name": "Constance Care SA",
+    "isin": "PLCNSTC00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CCS",
+    "name": "Cyfrowe Centrum Serwisowe SA",
+    "isin": "PLCCS0000012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CDL",
+    "name": "CDRL S.A.",
+    "isin": "PLCDRL000043",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CDR",
+    "name": "CD PROJEKT RED Spolka Akcyjna",
+    "isin": "PLOPTTC00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CEZ",
+    "name": "CEZ as",
+    "isin": "CZ0005112300",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CFG",
+    "name": "Creativeforge Games SA",
+    "isin": "PLCRFRG00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CFI",
+    "name": "CFI HOLDING S.A.",
+    "isin": "PLINTKS00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CFS",
+    "name": "Centrum Finansowe SA",
+    "isin": "PLCFBPS00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CHP",
+    "name": "Cherrypick Games SA",
+    "isin": "PLCHRPK00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CIG",
+    "name": "CI Games S.A.",
+    "isin": "PLCTINT00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CLA",
+    "name": "CONSOLE LABS Spolka Akcyjna",
+    "isin": "PLCNSLB00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CLC",
+    "name": "Columbus Energy SA",
+    "isin": "PLSTIGR00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CLD",
+    "name": "Cloud Technologies SA",
+    "isin": "PLCLDTC00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CLE",
+    "name": "Coal Energy S.A.",
+    "isin": "LU0646112838",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CLN",
+    "name": "Celon Pharma SA",
+    "isin": "PLCLNPH00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CMC",
+    "name": "COMECO S.A. Class D",
+    "isin": "PLCOMEC00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CMI",
+    "name": "CM International SA Class BC",
+    "isin": "PLCMINT00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CMP",
+    "name": "Comp S.A.",
+    "isin": "PLCMP0000017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "COG",
+    "name": "Cognor Holding SA",
+    "isin": "PLCNTSL00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "COS",
+    "name": "Cosma S.A.",
+    "isin": "PLVBN0000015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CPD",
+    "name": "CPD S.A.",
+    "isin": "PLCELPD00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CPI",
+    "name": "CPI Europe AG",
+    "isin": "AT0000A21KS2",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CPL",
+    "name": "Comperia.pl S.A.",
+    "isin": "PLCOMPR00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CPR",
+    "name": "Compremum S.A.",
+    "isin": "PLPZBDT00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CPS",
+    "name": "Cyfrowy Polsat SA",
+    "isin": "PLCFRPT00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CRB",
+    "name": "Carbon Studio S.A.",
+    "isin": "PLCRBST00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CRC",
+    "name": "CARPATHIA CAPITAL S.A.",
+    "isin": "PLCRPCP00034",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CRI",
+    "name": "Creotech Instruments SA",
+    "isin": "PLCRTCH00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CRJ",
+    "name": "Creepy Jar S.A.",
+    "isin": "PLCRPJR00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CRM",
+    "name": "PZ Cormay S.A.",
+    "isin": "PLCMRAY00029",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CRQ",
+    "name": "CREOTECH QUANTUM S.A",
+    "isin": "PLCTHQM00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CSR",
+    "name": "Caspar Asset Management SA",
+    "isin": "PLCSPAM00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CST",
+    "name": "Cstore S.A.",
+    "isin": "PLCSTR000014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CTE",
+    "name": "CTE Group SA",
+    "isin": "PLLRPSP00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CTF",
+    "name": "Centurion Finance ASI SA",
+    "isin": "PLSTRGM00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CTS",
+    "name": "City Service SE",
+    "isin": "EE3100126368",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CTX",
+    "name": "Captor Therapeutics SA",
+    "isin": "PLCPTRT00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "CWA",
+    "name": "Consoleway SA",
+    "isin": "PLCNSLW00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "CZT",
+    "name": "Czerwona Torebka SA",
+    "isin": "PLCRWTR00022",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DAD",
+    "name": "Dadelo SA",
+    "isin": "PLDADEL00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DAT",
+    "name": "DataWalk Spolka Akcyjna",
+    "isin": "PLPILAB00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DBC",
+    "name": "Firma Oponiarska Debica S.A.",
+    "isin": "PLDEBCA00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DBE",
+    "name": "DB Energy SA",
+    "isin": "PLDBENR00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DCR",
+    "name": "Decora S.A.",
+    "isin": "PLDECOR00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DDI",
+    "name": "Draw Distance SA",
+    "isin": "PLIFN4L00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "DEK",
+    "name": "Dekpol SA",
+    "isin": "PLDEKPL00032",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DEL",
+    "name": "Delko Spolka Akcyjna",
+    "isin": "PLDELKO00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DFH",
+    "name": "Defence.Hub S.A.",
+    "isin": "PLKLBTR00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "DGA",
+    "name": "DGA Spolka Akcyjna",
+    "isin": "PLDGA0000019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DGE",
+    "name": "DRAGO entertainment S.A.",
+    "isin": "PLDRG0000013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DIA",
+    "name": "Diagnostyka S.A.",
+    "isin": "PLDGNST00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DIG",
+    "name": "Digital Network S.A",
+    "isin": "PL4FNMD00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DIV",
+    "name": "DI VOLIO S.A.",
+    "isin": "PLGTRNT00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "DKR",
+    "name": "Dektra S.A.",
+    "isin": "PLDKTRA00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "DMG",
+    "name": "Dr. Miele Cosmed Group S.A.",
+    "isin": "PLGLBLC00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DNP",
+    "name": "Dino Polska SA",
+    "isin": "PLDINPL00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DNS",
+    "name": "DANKS Europejskie Centrum Doradztwa Podatkowego S.A.",
+    "isin": "PLDANKS00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "DOM",
+    "name": "Dom Development S.A.",
+    "isin": "PLDMDVL00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DPG",
+    "name": "Dark Point Games SA",
+    "isin": "PLDRPGM00048",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "DRF",
+    "name": "Dr. Finance SA",
+    "isin": "PLDRD2400010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "DRG",
+    "name": "Drageus Games S.A.",
+    "isin": "PLDRGGM00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "DRZ",
+    "name": "Do Rzeczy S.A.",
+    "isin": "PLDRZCZ00030",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "DTR",
+    "name": "Digitree Group S.A.",
+    "isin": "PLSARE000013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "DTX",
+    "name": "Ditix S.A",
+    "isin": "PLFTPRF00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "DUA",
+    "name": "Duality SA",
+    "isin": "PLDLITY00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "DVL",
+    "name": "Develia S.A.",
+    "isin": "PLLCCRP00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "EAH",
+    "name": "Esotiq & Henderson S.A.",
+    "isin": "PLESTHN00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "EAT",
+    "name": "AmRest Holdings SE",
+    "isin": "ES0105375002",
+    "market": "gpw"
+  },
+  {
+    "ticker": "EBP",
+    "name": "Erste Bank Polska S.A.",
+    "isin": "PLBZ00000044",
+    "market": "gpw"
+  },
+  {
+    "ticker": "EBX",
+    "name": "Ekobox SA",
+    "isin": "PLEKOBX00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ECB",
+    "name": "ECB Spolka Akcyjna",
+    "isin": "PLECBDZ00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ECC",
+    "name": "ECC Games SA",
+    "isin": "PLECCGM00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ECH",
+    "name": "Echo Investment S.A.",
+    "isin": "PLECHPS00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ECK",
+    "name": "Eurosnack S.A.",
+    "isin": "PLERSNK00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ECL",
+    "name": "ECL S.A.",
+    "isin": "PLESCLL00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ECN",
+    "name": "Ecnology Group S.A.",
+    "isin": "PLACRTS00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ECT",
+    "name": "Eco5tech SA",
+    "isin": "PLEC5TH00024",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "EDI",
+    "name": "ED invest S.A.",
+    "isin": "PLEDINV00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "EDL",
+    "name": "EDITEL Polska S.A.",
+    "isin": "PLEDSON00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "EEE",
+    "name": "Ekipa Holding Spolka Akcyjna",
+    "isin": "PLBBCLS00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "EEX",
+    "name": "EKO EXPORT S. A.",
+    "isin": "PLEKEP000019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "EFK",
+    "name": "Korporacja Gospodarcza efekt S.A.",
+    "isin": "PLEFEKT00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "EGH",
+    "name": "Ekopol Gornoslaski Holding S.A.",
+    "isin": "PLEKPLG00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "EGY",
+    "name": "ENERGY S.A.",
+    "isin": "PLVGUAR00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "EHG",
+    "name": "Eurohold Bulgaria AD",
+    "isin": "BG1100114062",
+    "market": "gpw"
+  },
+  {
+    "ticker": "EKE",
+    "name": "EKO-OZE SA",
+    "isin": "PLDNTMD00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "EKP",
+    "name": "Elkop Estonia SE",
+    "isin": "EE0000000453",
+    "market": "gpw"
+  },
+  {
+    "ticker": "EKS",
+    "name": "e-Kiosk S.A.",
+    "isin": "PLEKOSK00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ELQ",
+    "name": "ELQ Spolka Akcyjna",
+    "isin": "PLIPOSA00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ELT",
+    "name": "ELEKTROTIM S.A.",
+    "isin": "PLELEKT00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "EMP",
+    "name": "Emplocity SA",
+    "isin": "PLEMPCT00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "EMS",
+    "name": "Enimso Europe SA",
+    "isin": "PLTRMPR00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ENA",
+    "name": "Enea SA",
+    "isin": "PLENEA000013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "END",
+    "name": "Eneida Games S.A.",
+    "isin": "PLHDRGM00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ENE",
+    "name": "Centrum Medyczne ENEL-MED S.A.",
+    "isin": "PLENLMD00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ENG",
+    "name": "Energa SA",
+    "isin": "PLENERG00022",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ENI",
+    "name": "Energoinstal SA",
+    "isin": "PLERGIN00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ENP",
+    "name": "Energoaparatura SA",
+    "isin": "PLENAP000010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ENT",
+    "name": "Enter Air SA",
+    "isin": "PLENTER00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "EPR",
+    "name": "EKOPARK S.A.",
+    "isin": "PLPRIPK00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "EQU",
+    "name": "Equnico SE",
+    "isin": "PLRESBD00032",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ERB",
+    "name": "ERBUD S.A.",
+    "isin": "PLERBUD00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ERG",
+    "name": "ERG S.A.",
+    "isin": "PLERGZB00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "EST",
+    "name": "ENEFI Asset Management Plc",
+    "isin": "HU0000089198",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ETL",
+    "name": "Eurotel S.A.",
+    "isin": "PLERTEL00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ETX",
+    "name": "Euro-Tax.pl S.A.",
+    "isin": "PLEURTX00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "EUC",
+    "name": "Europejskie Centrum Odszkodowan S.A.",
+    "isin": "PLERPCO00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "EUR",
+    "name": "Eurocash S.A.",
+    "isin": "PLEURCH00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "EUV",
+    "name": "EUVIC S.A.",
+    "isin": "PLEONTW00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "EXA",
+    "name": "Examobile SA",
+    "isin": "PLEXMBL00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "EXC",
+    "name": "EXCELLENCE S.A",
+    "isin": "PLEXCLN00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "EXM",
+    "name": "e-Xim IT Spolka Akcyjna",
+    "isin": "PLEXIM000013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FAB",
+    "name": "Fabrity Holding S.A.",
+    "isin": "PLK2ITR00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "FAR",
+    "name": "Farm Innovations SA",
+    "isin": "PLFRMIN00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FEE",
+    "name": "FEERUM S.A.",
+    "isin": "PLFEERM00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "FEM",
+    "name": "Femion Technology SA",
+    "isin": "PLSMSKH00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FFI",
+    "name": "Fast Finance S.A.",
+    "isin": "PLFSTFC00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "FFP",
+    "name": "FARMY FOTOWOLTAIKI POLSKA S.A",
+    "isin": "PLGTRMP00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FHB",
+    "name": "FoodHub SA",
+    "isin": "PLPMPOL00031",
+    "market": "gpw"
+  },
+  {
+    "ticker": "FHD",
+    "name": "Fundusz Hipoteczny DOM SA",
+    "isin": "PLFHDOM00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FIB",
+    "name": "FIBO SA",
+    "isin": "PLDGNET00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FIG",
+    "name": "FIGENE CAPITAL S.A.",
+    "isin": "PLGPPIK00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FLG",
+    "name": "Falcon 1 Green World Spolka Akcyjna",
+    "isin": "PLEENRG00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FMG",
+    "name": "Wise Energy SA",
+    "isin": "PLTHP0000011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "FON",
+    "name": "FON SE",
+    "isin": "EE0000002897",
+    "market": "gpw"
+  },
+  {
+    "ticker": "FOR",
+    "name": "Forever Entertainment SA",
+    "isin": "PLFRENT00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FOX",
+    "name": "Space Fox Games SA Class A",
+    "isin": "PLSPFXG00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FPO",
+    "name": "Forposta SA",
+    "isin": "PLFRPST00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FRB",
+    "name": "Forbuild SA Class C",
+    "isin": "PLBETMX00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FRM",
+    "name": "FREEMIND S.A.",
+    "isin": "PLFRMND00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FRO",
+    "name": "FERRO S.A.",
+    "isin": "PLFERRO00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "FRW",
+    "name": "Frozen Way S.A.",
+    "isin": "PLFRZNW00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FSG",
+    "name": "Fabryki Sprzetu i Narzedzi Gorniczych FASING SA",
+    "isin": "PLFSING00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "FTE",
+    "name": "Grupa Forte Spolka Akcyjna",
+    "isin": "PLFORTE00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "FTH",
+    "name": "Fintech SA",
+    "isin": "PLJRSDB00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FTL",
+    "name": "FOOTHILLS S.A.",
+    "isin": "PLTLCMD00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "FVE",
+    "name": "Foto Volt Eko Energia SA",
+    "isin": "PLINVFM00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GAL",
+    "name": "Galvo SA",
+    "isin": "PLGALVO00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GAR",
+    "name": "Garin AI SA",
+    "isin": "PLABNET00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GDC",
+    "name": "Gamedust S.A.",
+    "isin": "PLINSTC00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GDS",
+    "name": "G-DEVS Spolka Akcyjna",
+    "isin": "PLGDVS000012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GEN",
+    "name": "Genomed S.A.",
+    "isin": "PLGNOMD00024",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GHT",
+    "name": "Gamehunters SA",
+    "isin": "PLGMHTS00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GHY",
+    "name": "Global Hydrogen Spolka Akcyjna",
+    "isin": "PLTLVPL00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GIF",
+    "name": "Gaming Factory SA",
+    "isin": "PLGMNGF00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "GKI",
+    "name": "Grupa Kapitalowa IMMOBILE S.A.",
+    "isin": "PLMAKRM00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "GKS",
+    "name": "GKS GieKSa Katowice SA",
+    "isin": "PLGKS0000016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GME",
+    "name": "Gremi Media SA",
+    "isin": "PLGRMID00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GMT",
+    "name": "Genomtec SA",
+    "isin": "PLGNMTC00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "GMV",
+    "name": "Gamivo SA",
+    "isin": "PLGMV0000016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GMZ",
+    "name": "Grupa Modne Zakupy S.A.",
+    "isin": "PLINFSC00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GNS",
+    "name": "Niewiadow Polish Military Group Joint Stock Company",
+    "isin": "PLVNTCP00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "GOB",
+    "name": "Gobarto SA",
+    "isin": "PLDUDA000016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "GOL",
+    "name": "Golab SA",
+    "isin": "PLGOLAB00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GOP",
+    "name": "Games Operators SA",
+    "isin": "PLGMSOP00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "GPP",
+    "name": "Grupa Pracuj spolka akcyjna",
+    "isin": "PLGRPRC00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "GPW",
+    "name": "Gielda Papierow Wartosciowych w Warszawie S.A.",
+    "isin": "PLGPW0000017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "GRC",
+    "name": "Group Recykl SA",
+    "isin": "PLRCKL000010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GRL",
+    "name": "Green Lanes SA",
+    "isin": "PLGRNLS00027",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GRM",
+    "name": "GREMPCO S.A",
+    "isin": "PLGRMPC00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GRN",
+    "name": "Grodno SA",
+    "isin": "PLGRODN00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "GRX",
+    "name": "GreenX Metals Limited",
+    "isin": "AU0000198939",
+    "market": "gpw"
+  },
+  {
+    "ticker": "GRZ",
+    "name": "Green Zebras SA",
+    "isin": "PLGRNZB00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GTC",
+    "name": "Globe Trade Centre S.A.",
+    "isin": "PLGTC0000037",
+    "market": "gpw"
+  },
+  {
+    "ticker": "GTF",
+    "name": "Go24.pl SA",
+    "isin": "PLGOTFI00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GTN",
+    "name": "Getin Holding S.A.",
+    "isin": "PLGSPR000014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "GTS",
+    "name": "Geotrans SA",
+    "isin": "PLGEOTR00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "GVT",
+    "name": "Grupa Virtus S.A.",
+    "isin": "PLIQPRT00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "GX1",
+    "name": "genXone SA",
+    "isin": "PLGENXN00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "HDR",
+    "name": "Przedsiebiorstwo Hydrauliki Silowej HYDROTOR SA",
+    "isin": "PLHDRTR00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "HEL",
+    "name": "Helio SA",
+    "isin": "PLHELIO00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "HER",
+    "name": "Highlander Enterprise S.A.",
+    "isin": "PLADVGP00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "HOR",
+    "name": "Hortico SA",
+    "isin": "PLHRTIC00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "HPE",
+    "name": "hiPower Energy spoyka akcyjna",
+    "isin": "PLCRBON00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "HPM",
+    "name": "HIPROMINE S.A.",
+    "isin": "PLHPRMN00037",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "HPS",
+    "name": "Hydrapres S.A.",
+    "isin": "PLHDRAP00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "HRC",
+    "name": "Grupa HRC Spolka Akcyjna",
+    "isin": "PLGRHRC00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "HRP",
+    "name": "Harper Hygienics S.A.",
+    "isin": "PLHRPHG00023",
+    "market": "gpw"
+  },
+  {
+    "ticker": "HRS",
+    "name": "Herkules SA",
+    "isin": "PLZRWZW00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "HRT",
+    "name": "Hurtimex Spolka Akcyjna",
+    "isin": "PLHRTIM00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "HUB",
+    "name": "Hub.Tech SA",
+    "isin": "PLBRTZM00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "HUG",
+    "name": "Huuuge, Inc.",
+    "isin": "US44853H1086",
+    "market": "gpw"
+  },
+  {
+    "ticker": "IBC",
+    "name": "IBC Polska F&P SA",
+    "isin": "PLIBCPL00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "IBS",
+    "name": "WISE FINANCE Spolka Akcyjna",
+    "isin": "PLPLPGR00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ICD",
+    "name": "Intercapital Property Development REIT",
+    "isin": "BG1100018057",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ICE",
+    "name": "MediNice SA",
+    "isin": "PLMDNCE00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ICG",
+    "name": "ICE CODE GAMES SA",
+    "isin": "PLDGTAV00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "IDG",
+    "name": "INDYGOTECH MINERALS",
+    "isin": "PLLSTIA00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "IDH",
+    "name": "IDH DEVELOPMENT S.A.",
+    "isin": "PLICI0000010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "IDM",
+    "name": "IDM S.A.",
+    "isin": "PLIDMSA00044",
+    "market": "gpw"
+  },
+  {
+    "ticker": "IFA",
+    "name": "GENERATIONIS.AI S.A.",
+    "isin": "PLINFRA00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "IFC",
+    "name": "Investment Friends Capital SE",
+    "isin": "EE3100149154",
+    "market": "gpw"
+  },
+  {
+    "ticker": "IFI",
+    "name": "IFIRMA S.A.",
+    "isin": "PLPWRMD00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "IFL",
+    "name": "Internetowy Fundusz Leasingowy S.A.",
+    "isin": "PLINTFL00042",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "IFR",
+    "name": "Investment Friends SE",
+    "isin": "EE3100099391",
+    "market": "gpw"
+  },
+  {
+    "ticker": "IGT",
+    "name": "Igoria Trade SA",
+    "isin": "PLIGRTR00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "IMC",
+    "name": "IMC S.A.",
+    "isin": "LU0607203980",
+    "market": "gpw"
+  },
+  {
+    "ticker": "IMG",
+    "name": "TRUSTBTC S.A.",
+    "isin": "PLIMRGM00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "IMP",
+    "name": "IMPERIO Alternatywna Spolka Inwestycyjna Spolka Akcyjna",
+    "isin": "PLNFI0700018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "IMR",
+    "name": "Intermarum SA",
+    "isin": "PLTLPKA00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "IMS",
+    "name": "IMS SA",
+    "isin": "PLINTMS00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "INC",
+    "name": "INC SA",
+    "isin": "PLINCLT00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ING",
+    "name": "ING Bank Slaski S.A.",
+    "isin": "PLBSK0000017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "INK",
+    "name": "Instal Krakow S.A.",
+    "isin": "PLINSTK00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "INL",
+    "name": "Introl S.A.",
+    "isin": "PLINTRL00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "INM",
+    "name": "InventionMed SA",
+    "isin": "PLCDE0000010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "INP",
+    "name": "INPRO SA",
+    "isin": "PLINPRO00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "INS",
+    "name": "Indos SA",
+    "isin": "PLINDOS00035",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "INT",
+    "name": "Internity S.A.",
+    "isin": "PLINTNT00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "IPE",
+    "name": "IPOPEMA Securities S.A.",
+    "isin": "PLIPOPM00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "IPO",
+    "name": "INTERSPORT Polska S.A.",
+    "isin": "PLINTSP00038",
+    "market": "gpw"
+  },
+  {
+    "ticker": "IPW",
+    "name": "Image Power S.A.",
+    "isin": "PLIMGPW00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "IRL",
+    "name": "INTER RAO Lietuva AB",
+    "isin": "LT0000128621",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ISD",
+    "name": "Inside Park SA",
+    "isin": "PLINSPR00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ITB",
+    "name": "Interbud-Lublin S.A.",
+    "isin": "PLINTBD00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "IVE",
+    "name": "Investeko SA",
+    "isin": "PLIVSTK00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "IVO",
+    "name": "Incuvo S.A.",
+    "isin": "PLA295700027",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "IWS",
+    "name": "Iron Wolf Studio S.A.",
+    "isin": "PLA319800019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "IZB",
+    "name": "IZOBLOK spolka Akcyjna",
+    "isin": "PLIZBLK00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "IZO",
+    "name": "IZOLACJA-JAROCIN SPOLKA AKCYJNA",
+    "isin": "PLIZCJR00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "IZS",
+    "name": "Izostal S.A.",
+    "isin": "PLIZSTL00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "JJB",
+    "name": "Jujubee S.A.",
+    "isin": "PLJJBEE00028",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "JRC",
+    "name": "JRC Group Spolka Akcyjna",
+    "isin": "PLPYLON00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "JRH",
+    "name": "JR Holding ASI SA",
+    "isin": "PLJRINV00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "JSW",
+    "name": "Jastrzebska Spolka Weglowa S.A.",
+    "isin": "PLJSW0000015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "JWW",
+    "name": "JWW Invest S.A.",
+    "isin": "PLJWWNT00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "K2P",
+    "name": "Kool2Play Spolka Akcyjna",
+    "isin": "PLKL2PL00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "KBJ",
+    "name": "KBJ SA",
+    "isin": "PLKBJ0000016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "KCH",
+    "name": "KRAKCHEMIA S.A.",
+    "isin": "PLKRKCH00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KCI",
+    "name": "KCI S.A.",
+    "isin": "PLPONAR00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KDM",
+    "name": "KDM Shipping Public Ltd.",
+    "isin": "CY0102492119",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KER",
+    "name": "Kernel Holding S.A.",
+    "isin": "LU0327357389",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KGH",
+    "name": "KGHM Polska Miedz S.A.",
+    "isin": "PLKGHM000017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KGL",
+    "name": "KGL SA",
+    "isin": "PLKRKGL00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KGN",
+    "name": "Zespol Elektrocieplowni Wroclawskich KOGENERACJA S.A.",
+    "isin": "PLKGNRC00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KLE",
+    "name": "GRUPA KLEPSYDRA Spolka Akcyjna",
+    "isin": "PLMRTIN00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "KLK",
+    "name": "Kolejkowo SA",
+    "isin": "PLKLJKW00024",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "KLN",
+    "name": "Klon SA",
+    "isin": "PLKLON000010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "KMB",
+    "name": "Kombinat Konopny SA",
+    "isin": "PLKMBKN00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "KME",
+    "name": "Kancelaria Medius SA",
+    "isin": "PLMDIUS00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "KMP",
+    "name": "Kompap S.A.",
+    "isin": "PLKOMPP00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KOM",
+    "name": "Komputronik S.A.",
+    "isin": "PLKMPTR00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KOR",
+    "name": "Korbank S.A.",
+    "isin": "PLKRBNK00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "KPC",
+    "name": "Kupiec SA",
+    "isin": "PLKUPIC00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "KPD",
+    "name": "KPPD SA",
+    "isin": "PLKPPD000017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KPI",
+    "name": "Kancelaria Prawna - Inkaso WEC S.A.",
+    "isin": "PLKPWEC00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "KPL",
+    "name": "Kino Polska TV S.A.",
+    "isin": "PLKNOPL00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KRK",
+    "name": "Krka, d. d., Novo mesto",
+    "isin": "SI0031102120",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KRU",
+    "name": "Kruk S.A",
+    "isin": "PLKRK0000010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KSG",
+    "name": "KSG Agro SA",
+    "isin": "LU0611262873",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KTY",
+    "name": "Grupa Kety SA",
+    "isin": "PLKETY000011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "KUB",
+    "name": "Kubota SA",
+    "isin": "PLKBT0000015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "KVT",
+    "name": "Krynica Vitamin SA",
+    "isin": "PLKRVTM00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "LBD",
+    "name": "Lokaty Budowlane S.A.",
+    "isin": "PLFBRD000018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "LBT",
+    "name": "Libet Spolka Akcyjna",
+    "isin": "PLLBT0000013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "LBW",
+    "name": "Lubawa SA",
+    "isin": "PLLUBAW00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "LCN",
+    "name": "Labocanna SA",
+    "isin": "PLCCTLS00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "LEG",
+    "name": "Legimi Spolka Akcyjna",
+    "isin": "PLLGIMI00029",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "LEN",
+    "name": "Lena Lighting S.A.",
+    "isin": "PLLENAL00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "LES",
+    "name": "Less SA",
+    "isin": "PLINTGR00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "LET",
+    "name": "Letus Capital S.A.",
+    "isin": "PLGDVIS00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "LFR",
+    "name": "Liftero S.A.",
+    "isin": "PLLFTER00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "LGT",
+    "name": "Logintrade SA Class C",
+    "isin": "PLLGNTD00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "LHD",
+    "name": "Lichthund S.A.",
+    "isin": "PLLCHND00029",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "LKD",
+    "name": "Lokum Deweloper SA",
+    "isin": "PLLKMDW00049",
+    "market": "gpw"
+  },
+  {
+    "ticker": "LMG",
+    "name": "Live Motion Games SA",
+    "isin": "PLLVMGM00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "LMU",
+    "name": "Lumina Metals Corp.",
+    "isin": "CA55025J1030",
+    "market": "gpw"
+  },
+  {
+    "ticker": "LPP",
+    "name": "LPP S.A.",
+    "isin": "PLLPP0000011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "LRQ",
+    "name": "LARQ S.A.",
+    "isin": "PLCAMMD00032",
+    "market": "gpw"
+  },
+  {
+    "ticker": "LSI",
+    "name": "LSI Software S.A.",
+    "isin": "PLLSSFT00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "LTM",
+    "name": "Longterm Games SA",
+    "isin": "PLLNTRG00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "LTX",
+    "name": "Lentex SA",
+    "isin": "PLLENTX00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "LUD",
+    "name": "LUDUS S.A.",
+    "isin": "PLARTBM00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "LUG",
+    "name": "LUG S.A.",
+    "isin": "PLLUG0000010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "LUK",
+    "name": "Lukardi SA",
+    "isin": "PLSAP0000018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "LWB",
+    "name": "Lubelski Wegiel BOGDANKA SA",
+    "isin": "PLLWBGD00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "LXB",
+    "name": "LexBono Spolka Akcyjna",
+    "isin": "PLBVTSA00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "M4B",
+    "name": "M4B S.A.",
+    "isin": "PLM4B0000017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MAB",
+    "name": "Mabion SA",
+    "isin": "PLMBION00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MAD",
+    "name": "Madkom SA",
+    "isin": "PLMADKM00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MAK",
+    "name": "Makarony Polskie S.A.",
+    "isin": "PLMKRNP00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MAN",
+    "name": "ManyDev Studio SE",
+    "isin": "PLADDRG00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MAZ",
+    "name": "MAZOP Group Spolka Akcyjna",
+    "isin": "PLMZPGR00025",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MBF",
+    "name": "MBF Group SA",
+    "isin": "PLMBFCR00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MBK",
+    "name": "mBank SA",
+    "isin": "PLBRE0000012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MBR",
+    "name": "Mo-BRUK S.A.",
+    "isin": "PLMOBRK00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MBW",
+    "name": "Marie Brizard Wine & Spirits SA",
+    "isin": "FR0000060873",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MCD",
+    "name": "Mycodern Spolka Akcyjna",
+    "isin": "PLMDNPL00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MCI",
+    "name": "MCI Capital Alternatywna Spolka Inwestycyjna S.A.",
+    "isin": "PLMCIMG00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MCR",
+    "name": "mcr Spolka Akcyjna",
+    "isin": "PLMRCOR00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MDA",
+    "name": "MedApp SA",
+    "isin": "PLYLWHT00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MDB",
+    "name": "Medicofarma Biotech Spolka Akcyjna",
+    "isin": "PLINBOK00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MDG",
+    "name": "Medicalgorithmics SA",
+    "isin": "PLMDCLG00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MDI",
+    "name": "MDI Energia SA",
+    "isin": "PLNFI1000012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MDP",
+    "name": "MEDCAMP S.A.",
+    "isin": "PLTCHPR00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MDT",
+    "name": "MedTech Solutions S.A.",
+    "isin": "PLCCHT000014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MDV",
+    "name": "MODIVO SA",
+    "isin": "PLCCC0000016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MEG",
+    "name": "MEGARON S.A.",
+    "isin": "PLMGRON00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MER",
+    "name": "Mera S.A.",
+    "isin": "PLMERA000019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MEX",
+    "name": "Mex Polska SA",
+    "isin": "PLMEXPL00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MFD",
+    "name": "M FOOD S.A.",
+    "isin": "PLMDVLP00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MFO",
+    "name": "MFO SA",
+    "isin": "PLMFO0000013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MGS",
+    "name": "Madnetic Games SA",
+    "isin": "PLMNCGS00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MGT",
+    "name": "Mangata Holding SA",
+    "isin": "PLZTKMA00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MID",
+    "name": "Midven S.A.",
+    "isin": "PLMIDVN00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MIG",
+    "name": "MILITARY GROUP S.A.",
+    "isin": "PLRSYSA00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MIL",
+    "name": "Bank Millennium SA",
+    "isin": "PLBIG0000016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MIR",
+    "name": "Miraculum S.A.",
+    "isin": "PLKLSTN00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MLB",
+    "name": "MakoLab S.A.",
+    "isin": "PLMKLAB00023",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MLG",
+    "name": "MLP Group SA",
+    "isin": "PLMLPGR00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MLK",
+    "name": "Milkiland Foods PLC",
+    "isin": "NL0009508712",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MLM",
+    "name": "Milisystem S.A.",
+    "isin": "PL2INTC00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MLP",
+    "name": "MILKPOL S.A.",
+    "isin": "PLMLKPL00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MLS",
+    "name": "ML System Spolka Akcyjna",
+    "isin": "PLMLSTM00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MLT",
+    "name": "Moonlit S.A.",
+    "isin": "PLMNLIT00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MMC",
+    "name": "MM Conferences SA",
+    "isin": "PLMMCNF00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MMS",
+    "name": "Madmind Studio SA",
+    "isin": "PLA346100011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MNC",
+    "name": "Mennica Polska S.A.",
+    "isin": "PLMNNCP00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MND",
+    "name": "MINERAL MIDRANGE S.A.",
+    "isin": "PLMNRLM00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MNS",
+    "name": "Mennica Skarbowa SA",
+    "isin": "PLGRMNK00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MO2",
+    "name": "Moliera2 Spolka Akcyjna",
+    "isin": "PLAIRMK00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MOC",
+    "name": "Molecure SA",
+    "isin": "PLONCTH00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MOL",
+    "name": "MOL Hungarian Oil & Gas Plc Class A",
+    "isin": "HU0000153937",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MON",
+    "name": "MONNARI TRADE S.A.",
+    "isin": "PLMNRTR00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MOV",
+    "name": "Movie Games SA",
+    "isin": "PLMVGMS00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MPY",
+    "name": "mPay SA",
+    "isin": "PLMPAY000017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MQR",
+    "name": "MultiQure S.A.",
+    "isin": "PLPRBLG00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MRB",
+    "name": "Mirbud S.A.",
+    "isin": "PLMRBUD00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MRC",
+    "name": "Mercator Medical SA",
+    "isin": "PLMRCTR00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MRD",
+    "name": "MEDARD Spolka Akcyjna",
+    "isin": "PLVENIT00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MRG",
+    "name": "MERLIN GROUP Spolka Akcyjna",
+    "isin": "PLADMSV00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MRH",
+    "name": "Mr Hamburger SA",
+    "isin": "PLLSNRN00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MRK",
+    "name": "Marka SA",
+    "isin": "PLMARKA00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MSM",
+    "name": "Massmedica S.A.",
+    "isin": "PLMSMDC00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MSP",
+    "name": "Mostostal Plock S.A.",
+    "isin": "PLMSTPL00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MSW",
+    "name": "Mostostal Warszawa S.A.",
+    "isin": "PLMSTWS00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MSZ",
+    "name": "Mostostal Zabrze SA",
+    "isin": "PLMSTZB00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MTN",
+    "name": "MILTON ESSEX S.A.",
+    "isin": "PLMLTNE00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MUN",
+    "name": "Munar SA",
+    "isin": "PLSITE000013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MUR",
+    "name": "Murapol S.A.",
+    "isin": "PLMURPL00190",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MVP",
+    "name": "Marvipol Development SA",
+    "isin": "PLMRVDV00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MWT",
+    "name": "M.W. Trade Spolke Akcyjna",
+    "isin": "PLMWTRD00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MXC",
+    "name": "MaxCom SA",
+    "isin": "PLMXCMS00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "MXP",
+    "name": "MaxiPizza S.A.",
+    "isin": "PLMXPZZ00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "MZA",
+    "name": "Muza SA",
+    "isin": "PLMUZA000019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "NCL",
+    "name": "Noctiluca Spolka Akcyjna",
+    "isin": "PLNCTLC00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "NEU",
+    "name": "NEUCA S.A.",
+    "isin": "PLTRFRM00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "NNG",
+    "name": "NanoGroup SA",
+    "isin": "PLNNGRP00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "NOB",
+    "name": "Noobz from Poland S.A.",
+    "isin": "PLPLNTR00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "NOV",
+    "name": "Novina Spolka Akcyjna",
+    "isin": "PLBABY000016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "NRS",
+    "name": "Neurone Studio SA",
+    "isin": "PLHCKLG00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "NST",
+    "name": "Nestmedic SA",
+    "isin": "PLNSTMD00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "NTC",
+    "name": "New Tech Capital SA",
+    "isin": "PLECMNG00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "NTS",
+    "name": "Notoria Serwis S.A.",
+    "isin": "PLNTRSW00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "NTT",
+    "name": "NTT System S.A.",
+    "isin": "PLNTSYS00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "NTU",
+    "name": "Novaturas AB",
+    "isin": "LT0000131872",
+    "market": "gpw"
+  },
+  {
+    "ticker": "NTV",
+    "name": "New Tech Venture S.A.",
+    "isin": "PLSTCKI00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "NVA",
+    "name": "P.A. NOVA Spolka Akcyjna",
+    "isin": "PLPANVA00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "NVG",
+    "name": "Novavis Group S.A.",
+    "isin": "PLNFI0500012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "NVT",
+    "name": "NOVITA S.A.",
+    "isin": "PLNVITA00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "NWA",
+    "name": "NWAI Dom Maklerski S.A.",
+    "isin": "PLNWAI000017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "NWG",
+    "name": "Newag SA",
+    "isin": "PLNEWAG00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "NXG",
+    "name": "Nexity Global SA",
+    "isin": "PLWDMCP00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "O2T",
+    "name": "ONE2TRIBE S.A.",
+    "isin": "PLJWASA00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "OBL",
+    "name": "Orzel Bialy S.A.",
+    "isin": "PLORZBL00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ODL",
+    "name": "ODLEWNIE POLSKIE S.A.",
+    "isin": "PLODLPL00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "OLY",
+    "name": "OLYMP Spolka Akcyjna",
+    "isin": "PLOLMP000016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "OML",
+    "name": "One More Level SA",
+    "isin": "PLLSRMD00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ONC",
+    "name": "ONICO S.A.",
+    "isin": "PLONCTR00028",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "OND",
+    "name": "ONDE SA",
+    "isin": "PLONDE000018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ONE",
+    "name": "One Solution S.A.",
+    "isin": "PLONESL00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ONO",
+    "name": "onesano S.A.",
+    "isin": "PLSKTAN00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "OPG",
+    "name": "CPI FIM S.A.",
+    "isin": "LU0122624777",
+    "market": "gpw"
+  },
+  {
+    "ticker": "OPI",
+    "name": "Optigis S.A.",
+    "isin": "PLIMAGS00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "OPL",
+    "name": "Orange Polska S.A.",
+    "isin": "PLTLKPL00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "OPM",
+    "name": "OPTeam S.A.",
+    "isin": "PLOPTEM00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "OPN",
+    "name": "Oponeo.pl S.A.",
+    "isin": "PLOPNPL00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ORG",
+    "name": "Organic Farma Zdrowia S.A.",
+    "isin": "PLORGNK00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ORL",
+    "name": "ORZEL S.A",
+    "isin": "PLORZL000019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "OTM",
+    "name": "Zaklady Przemyslu Cukierniczego Otmuchow S.A.",
+    "isin": "PLZPCOT00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "OTS",
+    "name": "OT Logistics S.A.",
+    "isin": "PLODRTS00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "OUT",
+    "name": "Outdoorzy S.A.",
+    "isin": "PLOUTDR00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "OVI",
+    "name": "Ovid Works SA Class A",
+    "isin": "PLOVIDW00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "P24",
+    "name": "Present24 Spolka Akcyjna",
+    "isin": "PLPRS2400012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "P2B",
+    "name": "Planet B2B SA",
+    "isin": "PLPRKLS00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "P2C",
+    "name": "Play2Chill S.A.",
+    "isin": "PLPLCHL00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PAC",
+    "name": "Proacta S.A.",
+    "isin": "PLBTEVL00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PAS",
+    "name": "Passus SA",
+    "isin": "PLPSSUS00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PAT",
+    "name": "Patentus SA",
+    "isin": "PLPTNTS00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PBF",
+    "name": "PBS Finanse S.A.",
+    "isin": "PLBEFSN00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PBG",
+    "name": "PBG S.A.",
+    "isin": "PLPBG0000029",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PBT",
+    "name": "PrimeBit Games SA",
+    "isin": "PLPRMBG00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PBX",
+    "name": "Poznanska Korporacja Budowlana Pekabex SA",
+    "isin": "PLPKBEX00072",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PCE",
+    "name": "Grupa Azoty Zaklady Chemiczne Police S.A.",
+    "isin": "PLZCPLC00036",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PCF",
+    "name": "PCF Group SA",
+    "isin": "PLPCFGR00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PCO",
+    "name": "Pepco Group BV",
+    "isin": "NL0015000AU7",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PCR",
+    "name": "PCC Rokita Spolka Akcyjna",
+    "isin": "PLPCCRK00076",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PCX",
+    "name": "PCC Exol SA",
+    "isin": "PLPCCEX00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PDG",
+    "name": "Pyramid Games Spolka Akcyjna",
+    "isin": "PLPRMGM00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PEN",
+    "name": "Photon Energy NV",
+    "isin": "NL0010391108",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PEO",
+    "name": "Bank Polska Kasa Opieki S.A.",
+    "isin": "PLPEKAO00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PEP",
+    "name": "Polenergia S.A.",
+    "isin": "PLPLSEP00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PFG",
+    "name": "Prefa Group S.A.",
+    "isin": "PL71MDA00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PGE",
+    "name": "PGE Polska Grupa Energetyczna S.A.",
+    "isin": "PLPGER000010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PGG",
+    "name": "Proguns Group S.A",
+    "isin": "PLASMDV00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PGH",
+    "name": "POLSKA GRUPA HUTNICZA S.A.",
+    "isin": "PLEBCSL00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PGM",
+    "name": "PMPG Polskie Media S.A.",
+    "isin": "PLPEKPL00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PGV",
+    "name": "PGF Polska Grupa Fotowoltaiczna SA",
+    "isin": "PLZSTAL00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PHN",
+    "name": "Polski Holding Nieruchomosci SA",
+    "isin": "PLPHN0000014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PHR",
+    "name": "Pharmena S.A.",
+    "isin": "PLPHRMN00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PIT",
+    "name": "Polaris IT Group S.A.",
+    "isin": "PLANMD000014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PJP",
+    "name": "PJP Makrum SA",
+    "isin": "PLPROJP00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PKN",
+    "name": "ORLEN Spolka Akcyjna",
+    "isin": "PLPKN0000018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PKO",
+    "name": "PKO Bank Polski SA",
+    "isin": "PLPKO0000016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PKP",
+    "name": "PKP CARGO Spolka Akcyjna",
+    "isin": "PLPKPCR00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PLG",
+    "name": "PL Group Spolka Akcyjna",
+    "isin": "PLRAJDY00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PLI",
+    "name": "Platige Image SA",
+    "isin": "PLPTGMG00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PLM",
+    "name": "Polman SA",
+    "isin": "PLPOLMN00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PLT",
+    "name": "Plot Twist S.A",
+    "isin": "PLA342500016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PLW",
+    "name": "PlayWay Spolka Akcyjna",
+    "isin": "PLPLAYW00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PLZ",
+    "name": "Plaza Centers N.V.",
+    "isin": "NL0011882741",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PMA",
+    "name": "Prima Moda S.A.",
+    "isin": "PLPRMMD00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PNT",
+    "name": "Pointpack SA",
+    "isin": "PLPNTPK00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PPS",
+    "name": "PEPEES Spolka Akcyjna",
+    "isin": "PLPEPES00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PRA",
+    "name": "Prime Alternatywna Spolka Inwestycyjna Spolka Akcyjna",
+    "isin": "PLRKLMF00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PRE",
+    "name": "President Studio S.A.",
+    "isin": "PLPRTSD00022",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PRH",
+    "name": "Polski Holding Rozwoju S.A.",
+    "isin": "PLRDDVS00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PRI",
+    "name": "NPL Nova S.A.",
+    "isin": "PLPRGNK00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PRM",
+    "name": "Prochem S.A.",
+    "isin": "PLPRCHM00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PRN",
+    "name": "Partner-Nieruchomosci SA",
+    "isin": "PLPRNRH00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PRO",
+    "name": "APN Promise SA",
+    "isin": "PLAPNPS00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PRS",
+    "name": "Prymus SA",
+    "isin": "PLPRMUS00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PRT",
+    "name": "Protektor S.A.",
+    "isin": "PLLZPSK00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PTG",
+    "name": "PolTREG Spolka Akcyjna",
+    "isin": "PLPLTRG00038",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PTN",
+    "name": "Poltronic S.A.",
+    "isin": "PLPLTRN00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "PTW",
+    "name": "Polskie Towarzystwo Wspierania Przedsiebiorczosci SA",
+    "isin": "PLPTWP000015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PWX",
+    "name": "Polwax SA",
+    "isin": "PLPOLWX00026",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PXM",
+    "name": "Polimex - Mostostal SA",
+    "isin": "PLMSTSD00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "PZU",
+    "name": "Powszechny Zaklad Ubezpieczen Spolka Akcyjna",
+    "isin": "PLPZU0000011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "QCR",
+    "name": "Quest Craft S.A.",
+    "isin": "PLDMLGM00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "QNA",
+    "name": "QNA Technology SA",
+    "isin": "PLQNTHL00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "QNT",
+    "name": "Quantum software S.A.",
+    "isin": "PLQNTUM00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "QRS",
+    "name": "Quercus Towarzystwo Funduszy Inwestycyjnych S.A.",
+    "isin": "PLQRCUS00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "QUB",
+    "name": "QubicGames SA",
+    "isin": "PLQBCGM00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "RAF",
+    "name": "Fabryka Obrabiarek RAFAMET SA",
+    "isin": "PLRFMET00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "RAY",
+    "name": "Purple Ray Studio SA",
+    "isin": "PLPRPLR00025",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "RBS",
+    "name": "Robinson Europe SA",
+    "isin": "PLRBSNE00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "RBW",
+    "name": "Rainbow Tours S.A.",
+    "isin": "PLRNBWT00031",
+    "market": "gpw"
+  },
+  {
+    "ticker": "RCA",
+    "name": "Rocca S.A.",
+    "isin": "PLROCCA00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "RCW",
+    "name": "Ruch Chorzow SA",
+    "isin": "PLRCHZW00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "RDG",
+    "name": "Read-Gene SA",
+    "isin": "PLRADGN00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "RDN",
+    "name": "Redan SA",
+    "isin": "PLREDAN00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "REG",
+    "name": "Regnon S.A.",
+    "isin": "PLPRNTC00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "REX",
+    "name": "Rex Concepts Spolka Akcyjna",
+    "isin": "PLRXCNC00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "RGL",
+    "name": "Robs Group Logistic SA",
+    "isin": "PLRBGRL00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "RHD",
+    "name": "Reinhold Europe AB Class B",
+    "isin": "SE0001856519",
+    "market": "gpw"
+  },
+  {
+    "ticker": "RKG",
+    "name": "Rockgame SA",
+    "isin": "PLRCKGM00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "RLP",
+    "name": "Relpol S.A.",
+    "isin": "PLRELPL00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "RMK",
+    "name": "Remak-Energomontaz Spolka Akcyjna",
+    "isin": "PLREMAK00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "RNC",
+    "name": "REINO CAPITAL S.A.",
+    "isin": "PLWDM0000029",
+    "market": "gpw"
+  },
+  {
+    "ticker": "RND",
+    "name": "Render Cube S.A",
+    "isin": "PLRNDCB00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "RNK",
+    "name": "Rank Progress S.A.",
+    "isin": "PLRNKPR00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "RNT",
+    "name": "Private Rented Sector S.A.",
+    "isin": "PLGURDR00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ROB",
+    "name": "ROBYG S.A.",
+    "isin": "PLROBYG00321",
+    "market": "gpw"
+  },
+  {
+    "ticker": "RPC",
+    "name": "Zaklady Magnezytowe Ropczyce S.A.",
+    "isin": "PLROPCE00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "RRH",
+    "name": "RRH Group S.A.",
+    "isin": "PLCMPRS00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "RSG",
+    "name": "Red Square Games Spolka Akcyjna",
+    "isin": "PLRDSGM00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "RSP",
+    "name": "REMOR SOLAR POLSKA SA",
+    "isin": "PLAGRTR00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "RST",
+    "name": "Road Studio S.A.",
+    "isin": "PLA348700016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "RVU",
+    "name": "Ryvu Therapeutics SA",
+    "isin": "PLSELVT00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "RWL",
+    "name": "Rawlplug Spolka Akcyjna",
+    "isin": "PLKLNR000017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "S2B",
+    "name": "Syn2bio Spolka Akcyjna",
+    "isin": "PLSNBIO00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "S4E",
+    "name": "S4E S.A.",
+    "isin": "PLS4E0000015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SAN",
+    "name": "Banco Santander, S.A.",
+    "isin": "ES0113900J37",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SBE",
+    "name": "SoftBlue SA",
+    "isin": "PLSFTBL00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SCP",
+    "name": "Scope Fluidics SA",
+    "isin": "PLSCPFL00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SCS",
+    "name": "Stem Cells Spin SA",
+    "isin": "PLSTCLS00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SCW",
+    "name": "Scanway Spolka Akcyjna",
+    "isin": "PLSCWAY00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SDS",
+    "name": "SDS Optic Spolka Akcyjna",
+    "isin": "PLSDSOP00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SED",
+    "name": "SEDIVIO S.A.",
+    "isin": "PLEC20000010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SEK",
+    "name": "SEKO S.A.",
+    "isin": "PLSEKO000014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SEL",
+    "name": "Selena FM S.A.",
+    "isin": "PLSELNA00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SEV",
+    "name": "Sevenet S.A.",
+    "isin": "PLSVNET00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SFD",
+    "name": "SFD SA",
+    "isin": "PLSFD0000013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SFG",
+    "name": "Silvano Fashion Group AS",
+    "isin": "EE3100001751",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SFK",
+    "name": "Skoczowska Fabryka Kapeluszy Polkap SA",
+    "isin": "PLSFKPL00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SFS",
+    "name": "Sfinks Polska S.A.",
+    "isin": "PLSFNKS00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SGD",
+    "name": "Sigma Defence S.A.",
+    "isin": "PLSFLND00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SGN",
+    "name": "Sygnity SA",
+    "isin": "PLCMPLD00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SHD",
+    "name": "Soho Development SA",
+    "isin": "PLNFI0400015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SHG",
+    "name": "STARHEDGE S.A.",
+    "isin": "PLHRDEX00021",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SIM",
+    "name": "SimFabric SA",
+    "isin": "PLSMFBC00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SIN",
+    "name": "Solar Innovation Spolka Akcyjna",
+    "isin": "PLTABLO00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SKA",
+    "name": "Fabryka Farb i Lakierow Sniezka S.A.",
+    "isin": "PLSNZKA00033",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SKH",
+    "name": "Skarbiec Holding S.A.",
+    "isin": "PLSKRBH00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SKL",
+    "name": "Skyline Investment S.A.",
+    "isin": "PLSKLNW00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SKN",
+    "name": "SAKANA S.A.",
+    "isin": "PLSAKAN00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SKY",
+    "name": "Stohid Technology SA",
+    "isin": "PLYTFRC00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SLV",
+    "name": "Selvita SA",
+    "isin": "PLSLVCR00029",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SMT",
+    "name": "Simteract Spolka Akcyjna",
+    "isin": "PLSMTRC00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SNG",
+    "name": "SYNERGA.fund SA",
+    "isin": "PLMWTNS00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SNK",
+    "name": "Sanok Rubber Company SA",
+    "isin": "PLSTLSK00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SNN",
+    "name": "Sunway Network Spolka Akcyjna",
+    "isin": "PLPRSGD00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SNT",
+    "name": "Synektik SA",
+    "isin": "PLSNKTK00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SNW",
+    "name": "Sanwil Holding S.A.",
+    "isin": "PLSANWL00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SNX",
+    "name": "Sunex SA",
+    "isin": "PLSUNEX00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SOK",
+    "name": "Sonka Spolka Akcyjna",
+    "isin": "PLSNK0000012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SON",
+    "name": "Sonel S.A.",
+    "isin": "PLSONEL00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SPH",
+    "name": "Sopharma AD",
+    "isin": "BG11SOSOBT18",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SPR",
+    "name": "SpyroSoft SA",
+    "isin": "PLSPRSF00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "STA",
+    "name": "Starward Industries SA",
+    "isin": "PLSTRWI00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "STD",
+    "name": "Standrew SA",
+    "isin": "PLSTNDR00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "STF",
+    "name": "Stalprofil S.A.",
+    "isin": "PLSTLPF00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "STP",
+    "name": "Stalprodukt S.A.",
+    "isin": "PLSTLPD00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "STS",
+    "name": "Satis GROUP Spolka Akcyjna",
+    "isin": "PLADVPL00029",
+    "market": "gpw"
+  },
+  {
+    "ticker": "STX",
+    "name": "Stalexport Autostrady S.A.",
+    "isin": "PLSTLEX00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SUN",
+    "name": "Suntech S.A.",
+    "isin": "PLSNTCH00012",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SVE",
+    "name": "SYNTHAVERSE Spolka Akcyjna",
+    "isin": "PLBMDLB00018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SVRS",
+    "name": "Silvair, Inc.",
+    "isin": "USU827061099",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SWG",
+    "name": "SECO/WARWICK S.A.",
+    "isin": "PLWRWCK00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "SWM",
+    "name": "Software Mansion SA Series A-E",
+    "isin": "PLSFTMN00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SYG",
+    "name": "Sygnis S.A.",
+    "isin": "PLMODE000019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "SZR",
+    "name": "SZAR S.A.",
+    "isin": "PLSZAR000018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "TAR",
+    "name": "Tarczynski SA Class F",
+    "isin": "PLTRCZN00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "TBL",
+    "name": "T-Bull SA",
+    "isin": "PLTBULL00024",
+    "market": "gpw"
+  },
+  {
+    "ticker": "TCR",
+    "name": "Tech Robotics S.A.",
+    "isin": "PLNGTDV00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "TEC",
+    "name": "TECNOVATICA S.A.",
+    "isin": "PLIPODS00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "TEN",
+    "name": "Ten Square Games SA",
+    "isin": "PLTSQGM00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "TGG",
+    "name": "Triggo SA",
+    "isin": "PLTRGG000014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "TGS",
+    "name": "True Games Syndicate SA",
+    "isin": "PLKKHRB00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "THD",
+    "name": "Dust SA",
+    "isin": "PLTHDST00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "THG",
+    "name": "TenderHut Spolka Akcyjna",
+    "isin": "PLTNDRH00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "THS",
+    "name": "Thorium Space S.A.",
+    "isin": "PLTRMSP00031",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "TLG",
+    "name": "Przedsiebiorstwo Telekomunikacyjne Telgam S.A.",
+    "isin": "PLPTLTG00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "TLO",
+    "name": "Telesto SA",
+    "isin": "PLTELST00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "TLS",
+    "name": "Telestrada S.A.",
+    "isin": "PLTLSTD00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "TLX",
+    "name": "Talex S.A.",
+    "isin": "PLTALEX00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "TME",
+    "name": "Termoexpert SA",
+    "isin": "PLTRMEX00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "TMP",
+    "name": "Telemedycyna Polska S.A.",
+    "isin": "PLTLMDC00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "TMR",
+    "name": "Tatry mountain resorts as",
+    "isin": "SK1120010287",
+    "market": "gpw"
+  },
+  {
+    "ticker": "TNT",
+    "name": "T&T Proenergy Spolka Akcyjna",
+    "isin": "PLVCAOC00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "TOA",
+    "name": "TOYA S.A.",
+    "isin": "PLTOYA000011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "TOR",
+    "name": "TORPOL S.A.",
+    "isin": "PLTORPL00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "TOS",
+    "name": "TAMEX Obiekty Sportowe S.A.",
+    "isin": "PLTAMEX00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "TOW",
+    "name": "Tower Investments SA",
+    "isin": "PLTWRNV00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "TPE",
+    "name": "TAURON Polska Energia S.A.",
+    "isin": "PLTAURN00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "TRI",
+    "name": "Triton Development S.A.",
+    "isin": "PLASMOT00030",
+    "market": "gpw"
+  },
+  {
+    "ticker": "TRK",
+    "name": "Trakcja SA",
+    "isin": "PLTRKPL00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "TRN",
+    "name": "TransPolonia S.A.",
+    "isin": "PLTRNSP00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "TRR",
+    "name": "Termo-Rex Spolka Akcyjna",
+    "isin": "PLTRMRX00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "TRX",
+    "name": "Trex SA",
+    "isin": "PLAUXLM00026",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "TSG",
+    "name": "TESGAS S.A.",
+    "isin": "PLTSGS000019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "TXN",
+    "name": "Tax-Net SA",
+    "isin": "PLTAXNT00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "TXT",
+    "name": "Text S.A.",
+    "isin": "PLLVTSF00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "UCG",
+    "name": "UniCredit S.p.A.",
+    "isin": "IT0005239360",
+    "market": "gpw"
+  },
+  {
+    "ticker": "UFC",
+    "name": "Unified Factory SA",
+    "isin": "PLDTBRK00037",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "UFG",
+    "name": "UF Games S.A",
+    "isin": "PLUFGMS00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ULG",
+    "name": "Ultimate Games SA",
+    "isin": "PLULTGM00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ULM",
+    "name": "ULMA Construccion Polska S.A.",
+    "isin": "PLBAUMA00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "UNF",
+    "name": "Unfold.vc ASI Spolka Akcyjna",
+    "isin": "PLVNTIN00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "UNI",
+    "name": "UNIBEP S.A.",
+    "isin": "PLUNBEP00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "UNT",
+    "name": "UNIMOT SA",
+    "isin": "PLUNMOT00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "UNV",
+    "name": "Universe S.A.",
+    "isin": "PLALDA000010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "URT",
+    "name": "Urteste S.A.",
+    "isin": "PLURTST00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "VAI",
+    "name": "Volaria AI SA",
+    "isin": "PLDTLGM00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "VAR",
+    "name": "Varsav Game Studios SA",
+    "isin": "PLYORIM00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "VDS",
+    "name": "ViDiS SA",
+    "isin": "PLVIDIS00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "VEE",
+    "name": "Vee SA",
+    "isin": "PLVCTCM00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "VER",
+    "name": "MPL Verbum S.A.",
+    "isin": "PLMPLVR00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "VFA",
+    "name": "VRFABRIC SA",
+    "isin": "PLVRFBR00017",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "VGO",
+    "name": "VIGO Photonics Spolka Akcyjna",
+    "isin": "PLVIGOS00015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "VIN",
+    "name": "GPM Vindexus S.A.",
+    "isin": "PLVNDEX00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "VIV",
+    "name": "Euroinvestment SA",
+    "isin": "PLVRTLV00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "VLT",
+    "name": "VOOLT Spolka Akcyjna",
+    "isin": "PLNVVIS00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "VMX",
+    "name": "V-MAX Spolka Akcyjna",
+    "isin": "PLVMAX000028",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "VOT",
+    "name": "Votum S.A.",
+    "isin": "PLVOTUM00016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "VOX",
+    "name": "Voxel S.A.",
+    "isin": "PLVOXEL00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "VRB",
+    "name": "Verbicom SA",
+    "isin": "PLVRBCM00015",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "VRC",
+    "name": "Vercom SA",
+    "isin": "PLVRCM000016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "VRG",
+    "name": "VRG S.A.",
+    "isin": "PLVSTLA00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "VVD",
+    "name": "Vivid Games SA",
+    "isin": "PLVVDGM00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "WAS",
+    "name": "WASKO S.A.",
+    "isin": "PLHOGA000041",
+    "market": "gpw"
+  },
+  {
+    "ticker": "WGP",
+    "name": "W.G Partners SA",
+    "isin": "PLSKNWL00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "WHH",
+    "name": "Werth-Holz SA",
+    "isin": "PLWRTHL00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "WIK",
+    "name": "WIKANA S.A.",
+    "isin": "PLELPO000016",
+    "market": "gpw"
+  },
+  {
+    "ticker": "WLI",
+    "name": "Wildlands Interactive S.A.",
+    "isin": "PLGMSBX00010",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "WLT",
+    "name": "Wielton S.A.",
+    "isin": "PLWELTN00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "WOD",
+    "name": "Wodkan S.A.",
+    "isin": "PLWDKAN00016",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "WPL",
+    "name": "Wirtualna Polska Holding SA",
+    "isin": "PLWRTPL00027",
+    "market": "gpw"
+  },
+  {
+    "ticker": "WPR",
+    "name": "Woodpecker.co Spolka Akcyjna",
+    "isin": "PLWDPCK00017",
+    "market": "gpw"
+  },
+  {
+    "ticker": "WRL",
+    "name": "Wierzyciel S.A.",
+    "isin": "PLWRZCL00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "WTN",
+    "name": "Wittchen SA",
+    "isin": "PLWTCHN00030",
+    "market": "gpw"
+  },
+  {
+    "ticker": "WWL",
+    "name": "Wawel S.A.",
+    "isin": "PLWAWEL00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "WXF",
+    "name": "Warimpex Finanz- und Beteiligungs AG",
+    "isin": "AT0000827209",
+    "market": "gpw"
+  },
+  {
+    "ticker": "XBS",
+    "name": "XBS PRO-LOG SA",
+    "isin": "PLPROLG00013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "XDD",
+    "name": "Mentzen Spolka Akcyjna",
+    "isin": "PLMNTZN00014",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "XPL",
+    "name": "XPLUS S.A.",
+    "isin": "PLXPLUS00013",
+    "market": "gpw"
+  },
+  {
+    "ticker": "XTB",
+    "name": "XTB Spolka Akcyjna",
+    "isin": "PLXTRDM00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "XTP",
+    "name": "XTPL SA",
+    "isin": "PLXTPL000018",
+    "market": "gpw"
+  },
+  {
+    "ticker": "YAN",
+    "name": "Yanosik Spolka Akcyjna",
+    "isin": "PLNEPTS00011",
+    "market": "gpw"
+  },
+  {
+    "ticker": "YBS",
+    "name": "YBS S.A.",
+    "isin": "PLINSAG00011",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "YOS",
+    "name": "Yoshi Innovation Spolka Akcyjna",
+    "isin": "PLACREO00019",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "YRL",
+    "name": "Yarrl S.A.",
+    "isin": "PLUNMST00014",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ZAB",
+    "name": "Zabka Group S.A.",
+    "isin": "LU2910446546",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ZAP",
+    "name": "Grupa Azoty Zaklady Azotowe Pulawy SA",
+    "isin": "PLZAPUL00057",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ZEN",
+    "name": "Zeneris Projekty S.A.",
+    "isin": "PLA351100013",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ZEP",
+    "name": "ZE PAK SA",
+    "isin": "PLZEPAK00012",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ZMT",
+    "name": "Zamet SA",
+    "isin": "PLZAMET00010",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ZRE",
+    "name": "ZREMB CHOJNICE S.A.",
+    "isin": "PLZBMZC00019",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ZRX",
+    "name": "Zortrax SA",
+    "isin": "PLCRLNS00018",
+    "market": "newconnect"
+  },
+  {
+    "ticker": "ZUE",
+    "name": "ZUE S.A.",
+    "isin": "PLZUE0000015",
+    "market": "gpw"
+  },
+  {
+    "ticker": "ZUK",
+    "name": "Zaklady Urzadzen Kotlowych Staporkow S.A.",
+    "isin": "PLSTPRK00019",
+    "market": "gpw"
+  }
+]

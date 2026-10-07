@@ -46,3 +46,14 @@ export type Board = {
   source: BoardSource;
   asOf: number;
 };
+
+export type ListRow = {
+  ticker: string;
+  name: string;
+  market: "gpw" | "newconnect";
+  status: "yahoo" | "local" | "missing";
+  price: number | null;
+  change: number | null;
+  changePercent: number | null;
+  currency: string | null;
+};

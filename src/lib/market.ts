@@ -9,7 +9,8 @@ import { cache } from "react";
 
 export const getBoard = cache(async (): Promise<Board> => {
   const tracked = INSTRUMENTS.filter((item) => item.kind === "index" || item.featured);
-  const quotes = await mapPool(tracked, 6, getQuote);
+  const settled = await mapPool(tracked, 6, getQuote);
+  const quotes = settled.filter((quote): quote is Quote => quote != null);
   const indices = quotes.filter((quote) => quote.kind === "index");
   const stocks = quotes.filter((quote) => quote.kind === "equity");
   const localCount = quotes.filter((quote) => quote.source === "local").length;
@@ -19,13 +20,19 @@ export const getBoard = cache(async (): Promise<Board> => {
   return { indices, stocks, source, asOf };
 });
 
-export async function getQuote(instrument: Instrument): Promise<Quote> {
+export async function getQuote(instrument: Instrument): Promise<Quote | null> {
   try {
     return await fetchYahooQuote(instrument);
   } catch (error) {
+    const local = fallbackQuote(instrument);
+    if (!local) return null;
     console.error(`Kurs ${instrument.ticker} z zapisu lokalnego:`, error);
-    return fallbackQuote(instrument);
+    return local;
   }
+}
+
+export async function quoteMany(instruments: Instrument[]): Promise<Array<Quote | null>> {
+  return mapPool(instruments, 8, getQuote);
 }
 
 export async function getInstrument(symbol: string): Promise<Quote | null> {
@@ -51,8 +58,9 @@ export async function getHistory(
       bars: live.bars,
     };
   } catch (error) {
-    console.error(`Historia ${instrument.ticker} z zapisu lokalnego:`, error);
     const local = fallbackHistory(instrument, range);
+    if (!local) return null;
+    console.error(`Historia ${instrument.ticker} z zapisu lokalnego:`, error);
     return {
       ticker: instrument.ticker,
       range,

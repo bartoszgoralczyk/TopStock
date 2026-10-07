@@ -1,5 +1,8 @@
+import listingsJson from "@/data/listings.json";
 import { fold } from "@/lib/format";
 import type { InstrumentKind } from "@/lib/types";
+
+export type Market = "gpw" | "newconnect";
 
 export type Instrument = {
   ticker: string;
@@ -9,9 +12,17 @@ export type Instrument = {
   featured: boolean;
   about: string;
   aliases: string[];
+  market: Market | null;
 };
 
-export const INSTRUMENTS: Instrument[] = [
+type ListingRow = {
+  ticker: string;
+  name: string;
+  isin: string;
+  market: Market;
+};
+
+const CURATED: Array<Omit<Instrument, "market">> = [
   {
     ticker: "WIG20",
     label: "WIG20",
@@ -277,6 +288,52 @@ export const INSTRUMENTS: Instrument[] = [
   },
 ];
 
+const listings = listingsJson as ListingRow[];
+const curatedByTicker = new Map(
+  CURATED.filter((item) => item.kind === "equity").map((item) => [item.ticker, item]),
+);
+
+const companies: Instrument[] = listings.map((row) => {
+  const curated = curatedByTicker.get(row.ticker);
+  if (curated) return { ...curated, market: row.market };
+  return {
+    ticker: row.ticker,
+    label: row.ticker,
+    name: row.name,
+    kind: "equity",
+    featured: false,
+    about:
+      row.market === "newconnect"
+        ? "Spółka notowana na NewConnect."
+        : "Spółka z rynku głównego Giełdy Papierów Wartościowych w Warszawie.",
+    aliases: [],
+    market: row.market,
+  };
+});
+
+const indices: Instrument[] = CURATED.filter((item) => item.kind === "index").map((item) => ({
+  ...item,
+  market: null,
+}));
+
+export const INSTRUMENTS: Instrument[] = [...indices, ...companies];
+
+export function listedCompanies(): Instrument[] {
+  return companies;
+}
+
+export const COMPANY_COUNTS = {
+  gpw: companies.filter((item) => item.market === "gpw").length,
+  newconnect: companies.filter((item) => item.market === "newconnect").length,
+  total: companies.length,
+};
+
+export function venueLabel(instrument: Instrument): string {
+  if (instrument.kind === "index") return "indeks";
+  if (instrument.market === "newconnect") return "NewConnect";
+  return "rynek główny";
+}
+
 export function yahooSymbol(ticker: string): string {
   return `${ticker}.WA`;
 }
@@ -284,8 +341,12 @@ export function yahooSymbol(ticker: string): string {
 export function findInstrument(input: string): Instrument | undefined {
   const query = fold(input.trim().replace(/\.wa$/i, ""));
   if (!query) return undefined;
+  const byTicker = INSTRUMENTS.find(
+    (item) => fold(item.ticker) === query || fold(item.label) === query,
+  );
+  if (byTicker) return byTicker;
   return INSTRUMENTS.find((item) => {
-    const fields = [item.ticker, item.label, item.name, ...item.aliases];
+    const fields = [item.name, ...item.aliases];
     return fields.some((field) => fold(field) === query);
   });
 }

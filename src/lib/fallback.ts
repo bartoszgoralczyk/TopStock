@@ -22,8 +22,9 @@ const snapshot = snapshotJson as SnapshotRow[];
 const LOCAL_NOTE =
   "Feed nie odpowiedział. Wykres jest lokalnym przybliżeniem od zapisanego kursu, a nie historią z parkietu.";
 
-export function fallbackQuote(instrument: Instrument): Quote {
+export function fallbackQuote(instrument: Instrument): Quote | null {
   const row = rowFor(instrument);
+  if (!row) return null;
   const change = row.price - row.previousClose;
   return {
     ticker: instrument.ticker,
@@ -47,8 +48,9 @@ export function fallbackQuote(instrument: Instrument): Quote {
 export function fallbackHistory(
   instrument: Instrument,
   range: RangeId,
-): { bars: Bar[]; intraday: boolean; note: string } {
+): { bars: Bar[]; intraday: boolean; note: string } | null {
   const row = rowFor(instrument);
+  if (!row) return null;
   const rand = mulberry32(hash(instrument.ticker + range));
   if (range === "sesja" || range === "5d") {
     return {
@@ -65,21 +67,10 @@ export function fallbackHistory(
   };
 }
 
-function rowFor(instrument: Instrument): SnapshotRow {
+function rowFor(instrument: Instrument): SnapshotRow | null {
   const yahoo = yahooSymbol(instrument.ticker);
   const row = snapshot.find((item) => item.yahoo === yahoo);
-  if (!row || !row.previousClose) {
-    return {
-      yahoo,
-      price: 100,
-      previousClose: 100,
-      dayHigh: 101,
-      dayLow: 99,
-      volume: instrument.kind === "index" ? null : 10_000,
-      time: Math.floor(Date.now() / 1000),
-      currency: "PLN",
-    };
-  }
+  if (!row || !row.previousClose) return null;
   return row;
 }
 

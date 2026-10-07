@@ -4,6 +4,7 @@ import { Input } from "@/components/ui/input";
 import {
   searchInstruments,
   suggestedInstruments,
+  venueLabel,
   type Instrument,
 } from "@/lib/instruments";
 import { Search } from "lucide-react";
@@ -151,7 +152,7 @@ function ResultRow({
         <span className="ml-2 text-sm text-muted-foreground">{item.name}</span>
       </span>
       <span className="shrink-0 text-xs text-muted-foreground">
-        {item.kind === "index" ? "indeks" : "spółka"}
+        {venueLabel(item)}
       </span>
     </button>
   );

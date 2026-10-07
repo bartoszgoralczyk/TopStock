@@ -7,9 +7,10 @@ export function SiteFooter() {
         <p>
           To nie jest serwis Giełdy Papierów Wartościowych w Warszawie ani dom
           maklerski. Kursy biorą się z publicznego feedu Yahoo Finance (symbole
-          z końcówką .WA) i mogą być opóźnione. Gdy feed milczy, strona pokazuje
-          zapis lokalny i mówi o tym wprost. Nic tutaj nie jest rekomendacją
-          inwestycyjną.
+          z końcówką .WA) i mogą być opóźnione. Gdy feed milczy, a symbol jest w
+          zapisie lokalnym, strona pokazuje ten zapis i mówi o tym wprost. Spółka
+          bez kursu zostaje na liście z adnotacją, że notowania brak. Nic tutaj
+          nie jest rekomendacją inwestycyjną.
         </p>
         <div className="flex flex-wrap gap-4">
           <Link href="/" className="underline-offset-4 hover:underline">

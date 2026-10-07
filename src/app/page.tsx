@@ -1,3 +1,4 @@
+import { CompanyBrowser } from "@/components/company-browser";
 import { IndicesStrip } from "@/components/indices-strip";
 import { MacroSection } from "@/components/macro-section";
 import { NewsList } from "@/components/news-list";
@@ -12,7 +13,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: { absolute: "Notowania GPW" },
   description:
-    "WIG20, WIG, mWIG40, sWIG80 i kursy dużych spółek z warszawskiego parkietu.",
+    "WIG20, WIG, mWIG40, sWIG80, duże spółki oraz katalog rynku głównego i NewConnect.",
 };
 
 export default async function HomePage() {
@@ -28,7 +29,7 @@ export default async function HomePage() {
           <div>
             <h1 className="font-heading text-4xl tracking-tight">Notowania</h1>
             <p className="mt-2 max-w-2xl text-base leading-7 text-muted-foreground">
-              Indeksy i duże spółki z Giełdy Papierów Wartościowych w Warszawie.
+              Indeksy, duże spółki oraz pełniejszy katalog rynku głównego i NewConnect.
               Wybierz symbol, żeby otworzyć wykres.
             </p>
           </div>
@@ -49,6 +50,7 @@ export default async function HomePage() {
         </section>
         <NewsList articles={articles.slice(0, 5)} />
       </div>
+      <CompanyBrowser />
       <MacroSection />
     </div>
   );

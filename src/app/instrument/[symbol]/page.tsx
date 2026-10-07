@@ -1,8 +1,9 @@
 import { HistoryPanel } from "@/components/history-panel";
+import { MissingQuote } from "@/components/missing-quote";
 import { UnknownInstrument } from "@/components/unknown-instrument";
 import { Badge } from "@/components/ui/badge";
 import { formatDateTime, formatPercent, formatPrice, formatSigned, formatVolume, priceUnit, tone, toneClass } from "@/lib/format";
-import { findInstrument } from "@/lib/instruments";
+import { findInstrument, venueLabel } from "@/lib/instruments";
 import { getHistory, getInstrument } from "@/lib/market";
 import { DEFAULT_RANGE } from "@/lib/ranges";
 import { sessionPhase } from "@/lib/time";
@@ -39,7 +40,7 @@ export default async function InstrumentPage({
     getHistory(instrument.ticker, DEFAULT_RANGE),
   ]);
 
-  if (!quote || !history) return <UnknownInstrument query={symbol} />;
+  if (!quote) return <MissingQuote instrument={instrument} />;
 
   const phase = sessionPhase();
   const unit = priceUnit(quote.kind);
@@ -55,12 +56,14 @@ export default async function InstrumentPage({
         <span>{quote.label}</span>
       </p>
       <div className="mt-3 flex flex-wrap items-center gap-2">
-        <Badge variant="outline">{quote.kind === "index" ? "Indeks" : "Spółka"}</Badge>
+        <Badge variant="outline">{venueLabel(instrument)}</Badge>
         <Badge variant="secondary">{phase.label}</Badge>
         {quote.source === "local" ? <Badge variant="outline">Zapis lokalny</Badge> : null}
       </div>
       <h1 className="mt-3 font-heading text-4xl tracking-tight md:text-5xl">{quote.name}</h1>
-      <p className="mt-1 font-mono text-sm text-muted-foreground">{quote.label} · GPW · {quote.currency}</p>
+      <p className="mt-1 font-mono text-sm text-muted-foreground">
+        {quote.label} · {instrument.market === "newconnect" ? "NewConnect" : "GPW"} · {quote.currency}
+      </p>
       <div className="mt-4 flex flex-wrap items-end gap-x-5 gap-y-2">
         <p className="font-mono text-4xl tracking-tight md:text-5xl">
           {formatPrice(quote.price)}
@@ -81,7 +84,13 @@ export default async function InstrumentPage({
       </p>
 
       <div className="mt-6">
-        <HistoryPanel initial={history} />
+        {history ? (
+          <HistoryPanel initial={history} />
+        ) : (
+          <p className="rounded-lg border border-dashed border-border px-4 py-8 text-sm text-muted-foreground">
+            Wykres jest niedostępny. Feed nie oddał serii, a w zapisie lokalnym nie ma tego symbolu.
+          </p>
+        )}
       </div>
 
       <dl className="mt-6 grid grid-cols-2 gap-4 sm:grid-cols-3">
