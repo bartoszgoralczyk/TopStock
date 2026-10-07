@@ -16,6 +16,8 @@ Quotes and history come from `https://query1.finance.yahoo.com/v8/finance/chart/
 
 **Fallback:** if Yahoo does not answer, the page serves the snapshot in `src/data/snapshot.json` and a deterministic local series built from that snapshot. A banner on the board, and a note under the chart, say when the local copy is on screen. The app still runs with no API key and no network to Yahoo.
 
+**Macro, from Finwire.** The homepage also shows public series from `https://public-api.finwire.pl` (no key): NBP policy rates, WIBOR, POLSTR, CPI, NBP FX, housing prices, GUS wages, retail bonds, IKE/IKZE limits, finwire barometers, the credit-stress map, and deposit, savings, mortgage, and cash-loan aggregates. Each series is its own card. If one request fails, only that card shows an error. The quotes board does not depend on Finwire. These are not GPW prices, and the site does not republish Finwire articles.
+
 **News** is written for this site. “Przegląd sesji” is calculated from the board you are viewing (live feed or local snapshot). The other articles explain how to read the indices, the table, and the chart. They are not a wire feed.
 
 ## Run locally
@@ -29,7 +31,7 @@ The dev server listens on [http://127.0.0.1:3847](http://127.0.0.1:3847).
 
 ## Pages
 
-- `/` — WIG20, WIG, mWIG40, sWIG80, and a table of large Warsaw stocks
+- `/` — WIG20, WIG, mWIG40, sWIG80, a table of large Warsaw stocks, and the Finwire macro cards
 - `/instrument/PKO` — quote, session stats, and chart (try `WIG20`, `KGH`, `CDR`)
 - `/wiadomosci` — headlines
 - `/wiadomosci/przeglad-sesji` — session piece built from the board

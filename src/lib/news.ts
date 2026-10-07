@@ -79,6 +79,7 @@ const STATIC_ARTICLES: Article[] = [
       "Notowania spółek i indeksów bierzemy z publicznego wykresu Yahoo Finance, z symboli warszawskich zakończonych na .WA. Nie potrzeba do tego klucza. Serwis odświeża odczyt mniej więcej co minutę.",
       "To nie jest taśma samej giełdy i nie jest to serwis GPW. Kurs bywa opóźniony, a przy indeksach dłuższa historia dzienna w feedzie po prostu nie istnieje. Mówimy o tym przy wykresie, zamiast udawać pełne archiwum.",
       "Gdy feed nie odpowie, strona nie gaśnie. Pokazuje zapis kursów trzymany w repozytorium i wykres policzony od tego zapisu. Taki wykres jest oznaczony wprost: to przybliżenie, nie historia transakcji.",
+      "Pod tablicą są wskaźniki makro z publicznego API finwire.pl: stopy NBP, WIBOR, POLSTR, inflacja, kursy walut, mieszkania, płace, obligacje i agregaty ofert. To osobne liczby, nie kursy z parkietu. Gdy jedna seria nie odpowie, pusta zostaje tylko jej karta.",
       "Wiadomości też nie są przedrukiem agencyjnym. Przegląd sesji liczy się z tablicy, którą właśnie widzisz. Pozostałe teksty tłumaczą, jak czytać parkiet. Nic z tego nie jest poradą, żeby kupić albo sprzedać.",
     ],
   },

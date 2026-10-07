@@ -1,4 +1,5 @@
 import { IndicesStrip } from "@/components/indices-strip";
+import { MacroSection } from "@/components/macro-section";
 import { NewsList } from "@/components/news-list";
 import { QuotesTable } from "@/components/quotes-table";
 import { SourceBanner } from "@/components/source-banner";
@@ -48,6 +49,7 @@ export default async function HomePage() {
         </section>
         <NewsList articles={articles.slice(0, 5)} />
       </div>
+      <MacroSection />
     </div>
   );
 }
